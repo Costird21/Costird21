@@ -11,9 +11,11 @@ Computer Science graduate focused on backend development with **Java and Spring 
 ### Featured Projects
 
 [**AWS S3 Implementation**](https://github.com/Costird21/AWS-S3-Implementation)
+
 Backend application implementing AWS S3 for secure file storage and image upload/download.
 
 [**JWT Authentication System**](https://github.com/Costird21/JWT-Authentification-System)
+
 Authentication system built with Spring Boot, Spring Security, JWT, and PostgreSQL.
 
 ### Currently Learning
