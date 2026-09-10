@@ -1,5 +1,3 @@
-# Costi
-
 ## Backend Developer
 
 Computer Science graduate focused on backend development with **Java and Spring Boot**. Currently seeking my first backend development role while building real-world applications and continuously expanding my technical skills.
