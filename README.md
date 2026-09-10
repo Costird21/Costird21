@@ -4,7 +4,7 @@ Computer Science graduate focused on backend development with **Java and Spring 
 
 ### Tech Stack
 
-**Java · Spring Boot · Spring Security · REST APIs · PostgreSQL · Maven · JUnit · Docker · AWS · CI/CD · Git · Postman**
+**Java · Spring Boot · REST APIs · PostgreSQL · Maven · JUnit · Docker · AWS · CI/CD · Git · Postman**
 
 ### Featured Projects
 
