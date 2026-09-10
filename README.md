@@ -4,11 +4,8 @@ Computer Science graduate focused on backend development with **Java and Spring 
 
 ### Tech Stack
 
-**Languages:** Java · SQL · HTML5 · CSS
+**Java · SQL · HTML5 · CSS · AWS · Postman · Git · Docker · Maven · CI/CD · Spring Boot · PostgreSQL · JUnit · Mockito · Lombok**
 
-**Developer Tools**: AWS · Postman · Git · Docker · Maven · CI/CD
-
-**Libraries/Frameworks**: Spring Boot · PostgreSQL · JUnit · Mockito · Lombok
 
 
 ### Featured Projects
