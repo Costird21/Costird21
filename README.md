@@ -4,7 +4,10 @@ Computer Science graduate focused on backend development with **Java and Spring 
 
 ### Tech Stack
 
-**Java · Spring Boot · REST APIs · PostgreSQL · Maven · JUnit · Docker · AWS · CI/CD · Git · Postman**
+**Languages**: Java, JavaScript, SQL, HTML5, CSS
+**Developer Tools**: AWS, Postman, Git, Docker, Maven, Git, CI/CD
+**Libraries/Frameworks**: Spring Boot, PostgreSQL, JUnit, Mockito, Lombok
+
 
 ### Featured Projects
 
@@ -18,7 +21,7 @@ Authentication system built with Spring Boot, Spring Security, JWT, and PostgreS
 
 ### Currently Learning
 
-Expanding my knowledge of backend development, system design, databases, cloud infrastructure, and software engineering practices.
+Expanding my knowledge of REST APIs, backend development, system design, databases, cloud infrastructure, and software engineering practices.
 
 ### About Me
 
